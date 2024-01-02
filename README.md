@@ -1,7 +1,6 @@
-👋 Welcome to CodePratik - Your Coding Companion! 🚀
 <div align="center">
-  <h3 align="center">Web Development</h3>
-
+<h2 align="center">👋 Welcome to CodePratik - Your Coding Companion! 🚀
+</h2>
   <p align="center">
 🚀 Ready to Level Up Your Coding Skills?    <br />
     <a href="https://github.com/pratikjaypurkar/WebDevelopment"><strong>Explore the challenge »</strong></a>
@@ -35,4 +34,6 @@ Contributions are what make the open source community such an amazing place to l
 
 To the extent possible under law,  [pratik jaypurkar](https://github.com/pratikjaypurkar)  has waived all copyright and related or neighboring rights to this work.
 
-```
+<hr>
+@codepratik
+<hr>
