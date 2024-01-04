@@ -14,10 +14,7 @@
   </p>
 </div>
 <hr>
-
-
 <p>
-
 
 Dive into the world of coding and web development with CodePratik. Whether you're a coding enthusiast, a budding developer, or just curious about tech, you're in the right place! 💻🌐
   
