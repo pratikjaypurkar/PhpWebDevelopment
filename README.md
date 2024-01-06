@@ -20,8 +20,9 @@ Here is a basic layout of the project:
 
 | Folder | Description |
 |--------|-------------|
-| [Folder1](./Day 1) | Roadmap of Web dev |
-\
+| [Folder1](./Day-1) | This folder contains... |
+| [Folder2](./Folder2) | This folder includes... |
+| [Folder3](./Folder3) | In this folder, you'll find... |
 
 <hr>
 <p>
