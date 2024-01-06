@@ -14,16 +14,23 @@
   </p>
 </div>
 <hr>
-<p>
+## Project Structure
 
+Here is a basic layout of the project:
+
+| Folder | Description |
+|--------|-------------|
+| [Folder1](./Folder1) | This folder contains... |
+| [Folder2](./Folder2) | This folder includes... |
+| [Folder3](./Folder3) | In this folder, you'll find... |
+
+<hr>
+<p>
 Dive into the world of coding and web development with CodePratik. Whether you're a coding enthusiast, a budding developer, or just curious about tech, you're in the right place! 💻🌐
-  
 Check it out here:  [Click](https://www.instagram.com/codepratik/)
 </p>
 
-
 ## Contributing
-
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are  **greatly appreciated**.
 
 ## License
