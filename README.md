@@ -14,15 +14,20 @@
   </p>
 </div>
 <hr>
-## Project Structure
-
-Here is a basic layout of the project:
+## Daily Work
 
 | Folder | Description |
 |--------|-------------|
-| [Folder1](./Day-1) | This folder contains... |
-| [Folder2](./Folder2) | This folder includes... |
-| [Folder3](./Folder3) | In this folder, you'll find... |
+| [Day 1](./Day%201) | Roadmap of web dev |
+| [Day 2](./Day%202) | How Work Web site and Internet |
+| [Day 3](./Day%203) | Structure of Web site and html |
+| [Day 4](./Day%204) | HTML tags |
+| [Day 5](./Day%205) | Container tag and forms |
+| [Day 6](./Day%206) | List adn Tables and project |
+| [Day 7](./Day%207) | Basic Project (Nav Bar ,section and html tags) |
+| [Day 8](./Day%208) | revision |
+
+
 
 <hr>
 <p>
