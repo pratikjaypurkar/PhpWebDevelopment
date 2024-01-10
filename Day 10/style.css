@@ -1,0 +1,45 @@
+ /* box shadow */
+nav {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    box-shadow: rgba(157, 157, 157, 0.2) 0px 4px 10px;
+}
+
+
+/*  For image and shadow  */
+.logo img {
+    max-width: 30%; /* Set the desired width of your logo */
+    height: auto; /* Maintain the aspect ratio */
+    padding-left: 170px;
+    filter: drop-shadow(10px 10px 20px black); /* shadow*/
+}
+
+/* hover Text (change color when pointer on text) */
+a {
+    text-decoration: none;
+    color: #000000;
+    font-weight: bold;
+    padding-left: 10px;
+    transition: color 0.3s ease;
+}
+ a:hover {
+    color: #873cff; /* Change to your desired color */
+}
+
+/* Button  */
+.button{
+    background-color: #6674cc; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 10px;
+}
+.button1 {
+    background-color: white;
+    color: black;
+    border: 2px solid #04AA6D; /* Green */
+  }
+
