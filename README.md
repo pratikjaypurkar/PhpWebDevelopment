@@ -27,6 +27,10 @@
 | [Day 6](./Day%206) | List adn Tables and project |
 | [Day 7](./Day%207) | Basic Project (Nav Bar ,section and html tags) |
 | [Day 8](./Day%208) | revision |
+| [Day 9](./Day%209) | background and css start  |
+| [Day 10](./Day%2010) | project of css (small) |
+| [Day 11](./Day%2011) | css basics |
+
 
 
 
