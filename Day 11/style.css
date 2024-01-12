@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0%; 
+}
+body {
+    width: 100%;
+    height: 100vh;
+    background-color: hsl(0, 0%, 94%);
+    background-image: url("8011.png"), url("cursor-png-1104.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+  }
+
+.para {
+  color: #ff00ff;
+}
+
+.btn {
+  background-color: #ff3368;
+  color: #fff;
+}
+
+.btn:hover {
+  background-color: black;
+  color: white;
+}
+
+h1:hover {
+  color: blue;
+}
