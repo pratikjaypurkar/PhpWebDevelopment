@@ -29,9 +29,14 @@
 | [Day 8](./Day%208) | revision |
 | [Day 9](./Day%209) | background and css start  |
 | [Day 10](./Day%2010) | project of css (small) |
-| [Day 11](./Day%2011) | css basics |
-
-
+| [Day 11](./Day%2011) | button hover css |
+| [Day 12](./Day%2011) | Colors |
+| [Day 13](./Day%2011) | Selector |
+| [Day 14](./Day%2011) | Font |
+| [Day 15](./Day%2011) | Insert CSS & Comments |
+| [Day 16](./Day%2011) | border-style |
+| [Day 17](./Day%2011) | Units |
+| [Day 18](./Day%2011) |  |
 
 
 <hr>
