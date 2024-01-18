@@ -1,0 +1,35 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@700&display=swap');
+body {
+    background-color: hsl(0, 0%, 94%);
+    display: grid;
+    place-items: center;
+  }
+
+.section {
+    width: 50%;
+  }
+
+h1{
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+p{
+    font-size: medium;
+    font-family:'Times New Roman', Times, serif;
+}
+.font{
+    font-family: 'Rubik', sans-serif;
+}
+
+.textdeco{
+    font-size: 34px;
+    text-align: center;
+    text-decoration-line: overline;
+    -moz-text-decoration-line: overline;
+    text-decoration-color: rebeccapurple;
+    -moz-text-decoration-color: rebeccapurple;
+    text-decoration-style: dotted;
+    -moz-text-decoration-style: dotted;
+}
