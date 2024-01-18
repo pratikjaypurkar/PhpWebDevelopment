@@ -30,16 +30,16 @@
 | [Day 9](./Day%209) | background and css start  |
 | [Day 10](./Day%2010) | project of css (small) |
 | [Day 11](./Day%2011) | button hover css |
-| [Day 12](./Day%2011) | Colors |
-| [Day 13](./Day%2011) | Selector |
-| [Day 14](./Day%2011) | Font |
-| [Day 15](./Day%2011) | Insert CSS & Comments |
-| [Day 16](./Day%2011) | border-style |
-| [Day 17](./Day%2011) | Units |
-| [Day 18](./Day%2011) |  |
+| [Day 12](./Day%2012) | Colors |
+| [Day 13](./Day%2013) | Selector |
+| [Day 14](./Day%2014) | Font |
+| [Day 15](./Day%2015) | Insert CSS & Comments |
+| [Day 16](./Day%2016) | border-style |
+| [Day 17](./Day%2017) | Units |
+| [Day 18](./Day%2018) | Other Font,Text Decoration |
 
-
-<hr>
+  
+<hr>  
 <p>
 Dive into the world of coding and web development with CodePratik. Whether you're a coding enthusiast, a budding developer, or just curious about tech, you're in the right place! 💻🌐
 Check it out here:  [Click](https://www.instagram.com/codepratik/)
