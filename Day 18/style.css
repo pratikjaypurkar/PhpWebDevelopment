@@ -26,8 +26,8 @@ p{
 .textdeco{
     font-size: 34px;
     text-align: center;
-    text-decoration-line: overline;
-    -moz-text-decoration-line: overline;
+    text-decoration-line: underline;
+    -moz-text-decoration-line: underline;
     text-decoration-color: rebeccapurple;
     -moz-text-decoration-color: rebeccapurple;
     text-decoration-style: dotted;
